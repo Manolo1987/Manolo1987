@@ -21,21 +21,18 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 
 ### Technologies I have previously worked with:
 
-- JavaScript, C/C++, HTML, CSS 3, Python
-- Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
+- JavaScript, HTML, CSS 3
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
-- CSS frameworks and libraries like Material UI, Bootstrap, Tailwind CSS
-- CMS such as Strapi and Sanity
 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=manolo1987&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolo1987&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -43,4 +40,4 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 
 <!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshsadake" alt="prathmeshsadake" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manolo1987" alt="prathmeshsadake" /></p>
