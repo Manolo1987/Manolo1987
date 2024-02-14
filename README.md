@@ -1,5 +1,8 @@
+<center>
+  
 <img style="max-height: 50px; content-align: center;" src="https://avatars.githubusercontent.com/u/19647016?v=4">
 <h1 style="text-align: center;">Hey 👋, I'm Manuel v. Schlippe!</h1>   
+</center>
   
 
 <a href="https://www.linkedin.com/in/manuel-v-schlippe-5979231a2/" target="_blank">
