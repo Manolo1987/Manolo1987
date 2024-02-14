@@ -6,15 +6,9 @@
 <a href="https://www.linkedin.com/in/manuel-v-schlippe-5979231a2/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/prathmeshsadake" target="_blank">
+<a href="https://github.com/Manolo1987" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/prathmeshsadake" target="_blank">
-/>
-</a>
-<a href="https://instagram.com/prxthmesh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 ### Glad to see you here!  
 Power-packed with the strengths of data structures and algorithms. I can perform modifications in various software, according to client requirements, by applying the principles of computer science, with the goal of optimising an application for better performance delivery.
