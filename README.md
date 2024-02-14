@@ -2,16 +2,16 @@
 <p align="center">  
 <img width="150px" src="https://avatars.githubusercontent.com/u/19647016?v=4">
 <h1 align="center">Hey 👋, I'm Manuel v. Schlippe!</h1>   
-
+</p>
   
 
-<a href="https://www.linkedin.com/in/manuel-v-schlippe-5979231a2/" target="_blank">
+<a href="https://www.linkedin.com/in/manuel-v-schlippe-5979231a2/" align="center" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Manolo1987" target="_blank">
+<a href="https://github.com/Manolo1987" target="_blank" align="center">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-</p>
+
 
 ### Nice to see you here!  
 At the moment I'm in the process of becoming a WebDeveloper at Digital Career Institue. 
