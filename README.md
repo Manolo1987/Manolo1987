@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hey 👋, I'm Manuel v. Schlippe!  
   
 
@@ -10,20 +8,20 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   
-### Glad to see you here!  
-Power-packed with the strengths of data structures and algorithms. I can perform modifications in various software, according to client requirements, by applying the principles of computer science, with the goal of optimising an application for better performance delivery.
+### Nice to see you here!  
+At the moment I'm in the process of becoming a WebDeveloper at Digital Career Institue. 
 
-I can create client-facing apps and websites with cutting-edge back-end support. I have worked with modern tools including Next.js, React.js, MongoDB, Node, Express.js, Firebase and Postman. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
-
-I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
+I'm open to collaborate for projects or create small apps and websites. I'm easy to work with and have a lot of experience when comes to working in a team.
 <br/>
 
 
-### Technologies I have previously worked with:
+### Things I'm learning right now:
 
-- JavaScript, HTML, CSS 3
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
-
+- Linux/Terminal, Git & GitHub, UX/UI
+- JavaScript, HTML, CSS
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- Single Page Applications
+- Cambridge Certificate English B2
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
