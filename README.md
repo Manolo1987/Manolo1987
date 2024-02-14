@@ -1,7 +1,7 @@
 
 <p align="center">  
 <img style="max-height: 50px; content-align: center;" src="https://avatars.githubusercontent.com/u/19647016?v=4">
-<h1 style="text-align: center;">Hey 👋, I'm Manuel v. Schlippe!</h1>   
+<h1 align="center">Hey 👋, I'm Manuel v. Schlippe!</h1>   
 </p>
   
 
